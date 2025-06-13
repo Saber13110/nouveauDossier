@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Système de Suivi de Colis
 
 Ce projet est une application de suivi de colis complète avec un frontend Angular, un backend FastAPI et une base de données PostgreSQL.
@@ -124,3 +125,6 @@ ng test
 - Backend : Gunicorn + Uvicorn
 - Base de données : PostgreSQL sur serveur dédié
 - Cache : Redis (optionnel) 
+=======
+# nouveauDossier
+>>>>>>> c09eb21a91da72cf01007b1f6bdadde5fb4382e7
